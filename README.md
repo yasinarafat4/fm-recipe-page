@@ -5,7 +5,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Links
 
 - Solution URL: **[View Source Code on GitHub](https://github.com/yasinarafat4/fm-recipe-page)**
-- Live Site URL: **[View Live Site](https://fm-recipe-page.vercel.app/)**
+- Live Site URL: **[View Live Site](https://fm-recipe-showcase.vercel.app/)**
 
 ## Built with
 
